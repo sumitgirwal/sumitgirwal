@@ -1,13 +1,20 @@
-### Hi there, I'm SG 👋
+### 👋 Hi there, I'm SG 
 
-## I'm a Python Dev!!
+
+
+## ✌️ I'm a Python Dev!!
 
 - 🌱 I’m currently learning everything 🤣
 - 🤝 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play guitar and read books
 
-### Technical Skills:
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=sumitgirwal.sumitgirwal)
+
+
+### 🤩 Technical Skills:
 
 
 #### Programming Languages 
