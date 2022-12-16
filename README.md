@@ -8,11 +8,11 @@
 - 🤝 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play guitar and read books
-
+- ☄️ [Portfolio](https://sumitgirwal.github.io/portfolio/)
+- 💡 [Youtube Portfolio](https://sumitgirwal.github.io/YoutubePortfolio/)
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sumitgirwal.sumitgirwal)
-
 
 ### 🤩 Technical Skills:
 
