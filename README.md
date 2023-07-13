@@ -33,7 +33,7 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 ## 🧑‍💻 Project's:
-#### Python/Django
+#### Django
 - [CodeBeLog - Django Html CSS JS](https://github.com/sumitgirwal/CodeBeLog)
 - [EmployeeMng - Django Ajax](https://github.com/sumitgirwal/EmployeeMng-Django-Ajax)
 - [A* Path Findinng - Python, Pygame](https://github.com/sumitgirwal/A-Star-Path-Find-Algo-Python)
@@ -49,8 +49,25 @@
 - [OpenAI ImgGen - Python](https://github.com/sumitgirwal/OpenAI-Image-Gen)
 - [PhotoFilter - Django OpenCV](https://github.com/sumitgirwal/PhotoFilter-Django-OpenCV)
 
+#### Python
+- [Dino Game - Python Pygame Automate](https://github.com/sumitgirwal/Dino-Game-Automate-Python)
+
+#### Python - Data Analysis
+- [Pokeman Dataset - Python Numpy Pandas](https://github.com/sumitgirwal/pokemon-dataset-data-analysis)
+- [SuperMarket - Python Numpy Pandas](https://github.com/sumitgirwal/super-market-research)
+- [Diabetes Linear Regression - Python Numpy Pandas](https://github.com/sumitgirwal/diabetes-linear-regression-ML)
+- [PlayStore - Python Numpy Pandas](https://github.com/sumitgirwal/google-play-store-data-analysis)
+- [Drink Dataset - Python Numpy Pandas](https://github.com/sumitgirwal/drinks-dataset-data-analysis)
+
+#### Java and J2EE
+- [NotifyMe - Java J2EE Bootstrap](https://github.com/sumitgirwal/notifyme-j2ee)
+
 #### ReactJS
+- [Todo App - ReactJS FastAPI Sqlalchemy Tailwind CSS](https://github.com/sumitgirwal/Todo-App)
 - [SuperDoom - ReactJS Html CSS](https://github.com/sumitgirwal/SuperDoom)
+
+#### Flask
+- [Todo App - Flask Html Css](https://github.com/sumitgirwal/Todo-App-Python-Flask)
 
 #### Frontend
 - [TwitterSidebar](https://github.com/sumitgirwal/TwitterSidebar)
@@ -58,6 +75,12 @@
 - [Form Collection](https://github.com/sumitgirwal/Form-Collection)
 - [Youtube Clone](https://github.com/sumitgirwal/YoutubePortfolio)
 - [Facebook Clone](https://github.com/sumitgirwal/FacebookLoginSignupClone)
+
+#### PHP 
+- [StudentProKit - PHP Html CSS](https://github.com/sumitgirwal/Student-Pro-Kit)
+
+#### C++
+- [Info Collector App - C++](https://github.com/sumitgirwal/Info-Collector-CPP-Project)
 
 ## 👷‍♂️ Freelancing
 - [Fiver](https://www.fiverr.com/devaaivin?up_rollout=true)
