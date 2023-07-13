@@ -5,7 +5,7 @@
 - 👀 I’m interested in Web Development & App Development
 - 🤝 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play guitar and read books
+- ⚡ Fun fact: I love to write blog and read books
 - 📫 How to reach me Linkedin - https://www.linkedin.com/in/sumitigirwal/
 - ☄️ [Portfolio](https://sumitgirwal.github.io/portfolio/)
 - 💡 [Youtube Portfolio](https://sumitgirwal.github.io/YoutubePortfolio/)
@@ -34,23 +34,24 @@
 
 ## 🧑‍💻 Project's:
 #### Django
+- [ProCoder - Django Bootstrap5 JQuery](https://github.com/sumitgirwal/ProCoder-Officials)
 - [CodeBeLog - Django Html CSS JS](https://github.com/sumitgirwal/CodeBeLog)
-- [EmployeeMng - Django Ajax](https://github.com/sumitgirwal/EmployeeMng-Django-Ajax)
-- [A* Path Findinng - Python, Pygame](https://github.com/sumitgirwal/A-Star-Path-Find-Algo-Python)
-- [Todo List - Django htmx Bootstrap5](https://github.com/sumitgirwal/Todo-List)
+- [Free2Connect - Django Bootstrap5](https://github.com/sumitgirwal/Free2Connect)
+- [PhotoFilter - Django OpenCV](https://github.com/sumitgirwal/PhotoFilter-Django-OpenCV)
 - [Order Tracking - Django htmx Bootstrap5](https://github.com/sumitgirwal/OrderTracker)
-- [UrlShortener -  Django Bootstrap5](https://github.com/sumitgirwal/UrlShortener)
 - [Notify - Django Channels Htmx Bootstrap5](https://github.com/sumitgirwal/Notify)
 - [WelcomeRoom - Django Channels Bootstrap5](https://github.com/sumitgirwal/Welcome-Room)
-- [FindCaller - Django DjangoRestFramework](https://github.com/sumitgirwal/FindCaller)
-- [Free2Connect - Django Bootstrap5](https://github.com/sumitgirwal/Free2Connect)
-- [ProCoder - Django Bootstrap5 JQuery](https://github.com/sumitgirwal/ProCoder-Officials)
-- [PhotoCanvas - Django](https://github.com/sumitgirwal/PhotoCanvas-Django)
+- [PhotoCanvas - Django Html Css](https://github.com/sumitgirwal/PhotoCanvas-Django)
+- [UrlShortener -  Django Bootstrap5](https://github.com/sumitgirwal/UrlShortener)
 - [OpenAI ImgGen - Python](https://github.com/sumitgirwal/OpenAI-Image-Gen)
-- [PhotoFilter - Django OpenCV](https://github.com/sumitgirwal/PhotoFilter-Django-OpenCV)
+- [FindCaller - Django DjangoRestFramework](https://github.com/sumitgirwal/FindCaller)
+- [Todo List - Django htmx Bootstrap5](https://github.com/sumitgirwal/Todo-List)
+- [EmployeeMng - Django Ajax](https://github.com/sumitgirwal/EmployeeMng-Django-Ajax)
+
 
 #### Python
 - [Dino Game - Python Pygame Automate](https://github.com/sumitgirwal/Dino-Game-Automate-Python)
+- [A* Path Findinng - Python, Pygame](https://github.com/sumitgirwal/A-Star-Path-Find-Algo-Python)
 
 #### Python - Data Analysis
 - [Pokeman Dataset - Python Numpy Pandas](https://github.com/sumitgirwal/pokemon-dataset-data-analysis)
