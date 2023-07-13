@@ -37,11 +37,13 @@
 - [CodeBeLog - Django Html CSS JS](https://github.com/sumitgirwal/CodeBeLog)
 - [EmployeeMng - Django Ajax](https://github.com/sumitgirwal/EmployeeMng-Django-Ajax)
 - [A* Path Findinng - Python, Pygame](https://github.com/sumitgirwal/A-Star-Path-Find-Algo-Python)
-- [Todo List - Django htmx Bootstrap 5](https://github.com/sumitgirwal/Todo-List)
-- [Order Tracking - Django htmx Bootstrap 5](https://github.com/sumitgirwal/OrderTracker)
-- [UrlShortener -  Django Bootstrap 5](https://github.com/sumitgirwal/UrlShortener)
+- [Todo List - Django htmx Bootstrap5](https://github.com/sumitgirwal/Todo-List)
+- [Order Tracking - Django htmx Bootstrap5](https://github.com/sumitgirwal/OrderTracker)
+- [UrlShortener -  Django Bootstrap5](https://github.com/sumitgirwal/UrlShortener)
+- [Notify - Django Channels Htmx Bootstrap5](https://github.com/sumitgirwal/Notify)
+- [WelcomeRoom - Django Channels Bootstrap5](https://github.com/sumitgirwal/Welcome-Room)
 
-#### Reactjs
+#### ReactJS
 - [SuperDoom - ReactJS Html CSS](https://github.com/sumitgirwal/SuperDoom)
 
 
@@ -49,7 +51,7 @@
 - [Fiver](https://www.fiverr.com/devaaivin?up_rollout=true)
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sumitgirwal&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sumitgirwal&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitgirwal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -59,7 +61,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sumitgirwal&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
  
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
