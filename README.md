@@ -45,10 +45,19 @@
 - [FindCaller - Django DjangoRestFramework](https://github.com/sumitgirwal/FindCaller)
 - [Free2Connect - Django Bootstrap5](https://github.com/sumitgirwal/Free2Connect)
 - [ProCoder - Django Bootstrap5 JQuery](https://github.com/sumitgirwal/ProCoder-Officials)
+- [PhotoCanvas - Django](https://github.com/sumitgirwal/PhotoCanvas-Django)
+- [OpenAI ImgGen - Python](https://github.com/sumitgirwal/OpenAI-Image-Gen)
+- [PhotoFilter - Django OpenCV](https://github.com/sumitgirwal/PhotoFilter-Django-OpenCV)
 
 #### ReactJS
 - [SuperDoom - ReactJS Html CSS](https://github.com/sumitgirwal/SuperDoom)
 
+#### Frontend
+- [TwitterSidebar](https://github.com/sumitgirwal/TwitterSidebar)
+- [Navbar Collection](https://github.com/sumitgirwal/Navbar-Collection)
+- [Form Collection](https://github.com/sumitgirwal/Form-Collection)
+- [Youtube Clone](https://github.com/sumitgirwal/YoutubePortfolio)
+- [Facebook Clone](https://github.com/sumitgirwal/FacebookLoginSignupClone)
 
 ## 👷‍♂️ Freelancing
 - [Fiver](https://www.fiverr.com/devaaivin?up_rollout=true)
