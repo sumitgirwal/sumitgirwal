@@ -36,7 +36,9 @@
 #### Django
 - [ProCoder - Django Bootstrap5 JQuery](https://github.com/sumitgirwal/ProCoder-Officials)
 - [CodeBeLog - Django Html CSS JS](https://github.com/sumitgirwal/CodeBeLog)
-- [Free2Connect - Django Bootstrap5](https://github.com/sumitgirwal/Free2Connect)
+- [Free2Connect - Django Htmx Bootstrap5](https://github.com/sumitgirwal/Free2Connect)
+- [CloudWeathers - Django htmx Bootstrap5](https://github.com/sumitgirwal/CloudWeathers)
+- [Todo List - Django Htmx Bootstrap 5](https://github.com/sumitgirwal/Todo-List)
 - [PhotoFilter - Django OpenCV](https://github.com/sumitgirwal/PhotoFilter-Django-OpenCV)
 - [Order Tracking - Django htmx Bootstrap5](https://github.com/sumitgirwal/OrderTracker)
 - [Notify - Django Channels Htmx Bootstrap5](https://github.com/sumitgirwal/Notify)
