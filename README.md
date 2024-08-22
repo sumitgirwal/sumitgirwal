@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Sumit Girwal
+# 👋 Hi there, I'm Sumit Girwal
 
 ## ✌️ I'm a Python Developer & DevOps Engineer | ELK Enthusiast !!
 
@@ -9,7 +9,7 @@
 - 🤝 I’m looking to collaborate with other content creators
 - 🥅 2024 Goals: Contribute more to Open Source projects And Learning About Web3
 - ⚡ Fun fact: I love to write blog and read books - [Medium](https://medium.com/@devsumitg)
-- 📫 How to reach me Linkedin - https://www.linkedin.com/in/sumitigirwal/
+- 📫 How to reach me Linkedin - https://www.linkedin.com/in/sumitgirwal/
 - ☄️ [Portfolio](https://sumitgirwal.github.io/portfolio/)
 - 💡 [Youtube Portfolio](https://sumitgirwal.github.io/YoutubePortfolio/)
 
