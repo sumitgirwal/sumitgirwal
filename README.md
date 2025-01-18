@@ -3,9 +3,9 @@
 
 ## 💫 About Me:  
 🌱 Currently exploring **DevOps** and mastering all things Python.  
-👀 Passionate about **Data Engineering** and **DevOps** technologies.  
+👀 Passionate about **AI/ML** and **DevOps** technologies.  
 🤝 Open to collaborating with other content creators and developers.  
-🥅 **2024 Goals:** Contribute more to **Open Source Projects** and dive deeper into **Web3**.  
+🥅 **2025 Goals:** Contribute more to **Open Source Projects** and dive deeper into **Web3**.  
 ⚡ **Fun fact:** I enjoy writing blogs and reading books on [Medium](https://medium.com).  
 
 ## 📫 How to reach me:  
