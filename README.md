@@ -6,7 +6,7 @@
 👀 Passionate about **AI/ML** and **DevOps** technologies.  
 🤝 Open to collaborating with other content creators and developers.  
 🥅 **2025 Goals:** Contribute more to **Open Source Projects** and dive deeper into **Web3**.  
-⚡ **Fun fact:** I enjoy writing blogs and reading books on [Medium](https://medium.com).  
+⚡ **Fun fact:** I enjoy writing blogs and reading books on [Medium](https://medium.com/@devsumitg).  
 
 ## 📫 How to reach me:  
 [LinkedIn](https://www.linkedin.com/in/sumitgirwal/)  
