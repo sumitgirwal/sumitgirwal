@@ -1,13 +1,16 @@
 # 👋 Hi, I'm Sumit Girwal  
-✌️ **Python Developer & DevOps Engineer | ELK Enthusiast**  
+🚀 **Python Backend Engineer | Production AI Systems | FastAPI • LLMs • Cloud**
 
 ## 💫 About Me:  
-🌱 Currently exploring **DevOps** and mastering all things Python.  
-👀 Passionate about **AI/ML** and **DevOps** technologies.  
-🤝 Open to collaborating with other content creators and developers.  
-🥅 **2025 Goals:** Contribute more to **Open Source Projects** and dive deeper into **Web3**.  
-⚡ **Fun fact:** I enjoy writing blogs and reading books on [Medium](https://medium.com/@devsumitg).  
+🌱 Building **scalable backend systems** and **production-grade AI pipelines** using Python.  
+🤖 Working with **LLMs, agentic workflows, Vector Databases, and real-time APIs**.  
+⚙️ Experienced with **FastAPI, Django, Celery, Redis, AWS, Docker**.  
+👀 Passionate about **AI Infrastructure, Distributed Systems, and High-Performance APIs**.  
+🤝 Open to collaborating on **open-source AI/backend projects**.  
+🥅 **2026 Goals:** Ship more AI-powered products, contribute to OSS, and master cloud-native architectures.  
+⚡ **Fun fact:** I love solving backend performance bottlenecks and sharing dev learnings publicly.  
 
+📫 Let's connect and build scalable AI systems together!
 ## 📫 How to reach me:  
 [LinkedIn](https://www.linkedin.com/in/sumitgirwal/)  
 
@@ -41,11 +44,6 @@ https://sumitgirwal.github.io/YoutubePortfolio/
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 ## 🧑‍💻 Project's:
-
-#### Own PIP Packages
-
-- [HelloWorldPIP](https://pypi.org/project/helloworldpip/)
-
 #### Django
 
 - [ProCoder - Django Bootstrap5 JQuery](https://github.com/sumitgirwal/ProCoder-Officials)
@@ -63,6 +61,10 @@ https://sumitgirwal.github.io/YoutubePortfolio/
 - [FindCaller - Django DjangoRestFramework](https://github.com/sumitgirwal/FindCaller)
 - [Todo List - Django htmx Bootstrap5](https://github.com/sumitgirwal/Todo-List)
 - [EmployeeMng - Django Ajax](https://github.com/sumitgirwal/EmployeeMng-Django-Ajax)
+
+#### Own PIP Packages
+
+- [HelloWorldPIP](https://pypi.org/project/helloworldpip/)
 
 #### Python
 
@@ -111,14 +113,6 @@ https://sumitgirwal.github.io/YoutubePortfolio/
 ![](https://github-readme-stats.vercel.app/api?username=sumitgirwal&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sumitgirwal&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitgirwal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🐦 Latest Tweet
-
-[![](https://gtce.itsvg.in/api?username=devsumitg)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=sumitgirwal&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
