@@ -10,7 +10,7 @@ I design and build Python backend services along with the infrastructure that ru
 [Portfolio](https://sumitgirwal.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/sumitgirwal/) · [Medium](https://medium.com/@devsumitg) · [X](https://x.com/devsumitg)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sumitgirwal.sumitgirwal)
-<a href="https://www.buymeacoffee.com/devsumitg" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/devsumitg" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 30px !important;width: 117px !important;" ></a>
 ---
 
 ## What I work on
@@ -26,10 +26,11 @@ I design and build Python backend services along with the infrastructure that ru
 The code for these is private client or company work. Full write-ups are on my portfolio.
 
 - **Workflow audit SDK & restart:** A Python SDK that publishes workflow lifecycle events over RabbitMQ, plus a buffered bulk-upsert consumer with a dead-letter queue and graceful shutdown. I also added full restart and resume-from-failed-step for Celery workflows and Airflow 3.x DAGs.
-- **API performance:** Cut a bulk catalog endpoint from about 14 minutes to about 1 second for 49 feeds by replacing an N+1 query loop with batched queries, composite indexes and column projection (SQLAlchemy, PostgreSQL).
-- **Distributed job scheduler:** FastAPI and Celery Beat on PostgreSQL and Redis, with timezone-aware cron recurrence, retry back-off, per-server concurrency throttling and fallback paths for broker outages. Load-tested with 100+ concurrent jobs across five timezones.
-- **Distributed scraping infrastructure:** Scrapy, Scrapyd and Scrapy-Redis crawlers on Kubernetes (RKE), delivered through ArgoCD. An ELK stack handles logging and monitoring for up to 3M data points.
+- **API performance:** Cut a bulk catalog endpoint from **~14 minutes to ~1 second** for **49 feeds** by replacing an N+1 query loop with batched queries, composite indexes and column projection (SQLAlchemy, PostgreSQL).
+- **Distributed job scheduler:** FastAPI and Celery Beat on PostgreSQL and Redis, with timezone-aware cron recurrence, retry back-off, per-server concurrency throttling and fallback paths for broker outages. Load-tested with **100+ concurrent jobs** across **5 timezones**.
+- **Distributed scraping infrastructure:** Scrapy, Scrapyd and Scrapy-Redis crawlers on Kubernetes (RKE), delivered through ArgoCD. An ELK stack handles logging and monitoring for up to **3M data points**.
 - **Real-time voice AI pipeline:** Streams audio from Twilio Media Streams through Silero VAD and Deepgram live transcription over WebSockets. A provider-agnostic LLM layer sits behind it (OpenAI, Anthropic, Gemini, Groq).
+
 
 ## Open-source projects
 
