@@ -1,119 +1,57 @@
-# 👋 Hi, I'm Sumit Girwal  
-🚀 **Python Backend Engineer | Production AI Systems | FastAPI • LLMs • Cloud**
+# Hi, I'm Sumit Girwal 👋
 
-## 💫 About Me:  
-🌱 Building **scalable backend systems** and **production-grade AI pipelines** using Python.  
-🤖 Working with **LLMs, agentic workflows, Vector Databases, and real-time APIs**.  
-⚙️ Experienced with **FastAPI, Django, Celery, Redis, AWS, Docker**.  
-👀 Passionate about **AI Infrastructure, Distributed Systems, and High-Performance APIs**.  
-🤝 Open to collaborating on **open-source AI/backend projects**.  
-🥅 **2026 Goals:** Ship more AI-powered products, contribute to OSS, and master cloud-native architectures.  
-⚡ **Fun fact:** I love solving backend performance bottlenecks and sharing dev learnings publicly.  
+**Software Engineer, Python Backend & Platform** · Based in India 🇮🇳
 
-📫 Let's connect and build scalable AI systems together!
-## 📫 How to reach me:  
-[LinkedIn](https://www.linkedin.com/in/sumitgirwal/)  
+Building APIs, distributed job systems, data pipelines, Kubernetes platforms and AI/LLM services.
 
-## ☄️ Portfolio:  
-https://sumitgirwal.github.io/portfolio/ 
-
-## 💡 YouTube Portfolio:  
-https://sumitgirwal.github.io/YoutubePortfolio/
+I design and build Python backend services along with the infrastructure that runs them. Over about ~5 years, I've worked on REST APIs, message-driven workflows, distributed scraping and ETL pipelines, and shipped them with Docker, Kubernetes and CI/CD on AWS and Azure. 
 
 
-
-  
+[Portfolio](https://sumitgirwal.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/sumitgirwal/) · [Medium](https://medium.com/@devsumitg) · [X](https://x.com/devsumitg)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sumitgirwal.sumitgirwal)
-
-## 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumitgirwal) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@devsumitg) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/devsumitg)
-<br/>
 <a href="https://www.buymeacoffee.com/devsumitg" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
-## 💻 Tech Stack:
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) <br />
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) <br />
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <br />
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) <br />
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) <br />
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) <br />
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) <br />
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-
-## 🧑‍💻 Project's:
-#### Django
-
-- [ProCoder - Django Bootstrap5 JQuery](https://github.com/sumitgirwal/ProCoder-Officials)
-- [CodeBeLog - Django Html CSS JS](https://github.com/sumitgirwal/CodeBeLog)
-- [Free2Connect - Django Htmx Bootstrap5](https://github.com/sumitgirwal/Free2Connect)
-- [CloudWeathers - Django htmx Bootstrap5](https://github.com/sumitgirwal/CloudWeathers)
-- [Todo List - Django Htmx Bootstrap 5](https://github.com/sumitgirwal/Todo-List)
-- [PhotoFilter - Django OpenCV](https://github.com/sumitgirwal/PhotoFilter-Django-OpenCV)
-- [Order Tracking - Django htmx Bootstrap5](https://github.com/sumitgirwal/OrderTracker)
-- [Notify - Django Channels Htmx Bootstrap5](https://github.com/sumitgirwal/Notify)
-- [WelcomeRoom - Django Channels Bootstrap5](https://github.com/sumitgirwal/Welcome-Room)
-- [PhotoCanvas - Django Html Css](https://github.com/sumitgirwal/PhotoCanvas-Django)
-- [UrlShortener - Django Bootstrap5](https://github.com/sumitgirwal/UrlShortener)
-- [OpenAI ImgGen - Python](https://github.com/sumitgirwal/OpenAI-Image-Gen)
-- [FindCaller - Django DjangoRestFramework](https://github.com/sumitgirwal/FindCaller)
-- [Todo List - Django htmx Bootstrap5](https://github.com/sumitgirwal/Todo-List)
-- [EmployeeMng - Django Ajax](https://github.com/sumitgirwal/EmployeeMng-Django-Ajax)
-
-#### Own PIP Packages
-
-- [HelloWorldPIP](https://pypi.org/project/helloworldpip/)
-
-#### Python
-
-- [Dino Game - Python Pygame Automate](https://github.com/sumitgirwal/Dino-Game-Automate-Python)
-- [A\* Path Findinng - Python, Pygame](https://github.com/sumitgirwal/A-Star-Path-Find-Algo-Python)
-
-#### Python - Data Analysis
-
-- [Pokeman Dataset - Python Numpy Pandas](https://github.com/sumitgirwal/pokemon-dataset-data-analysis)
-- [SuperMarket - Python Numpy Pandas](https://github.com/sumitgirwal/super-market-research)
-- [Diabetes Linear Regression - Python Numpy Pandas](https://github.com/sumitgirwal/diabetes-linear-regression-ML)
-- [PlayStore - Python Numpy Pandas](https://github.com/sumitgirwal/google-play-store-data-analysis)
-- [Drink Dataset - Python Numpy Pandas](https://github.com/sumitgirwal/drinks-dataset-data-analysis)
-
-#### Java and J2EE
-
-- [NotifyMe - Java J2EE Bootstrap](https://github.com/sumitgirwal/notifyme-j2ee)
-
-#### ReactJS
-
-- [Todo App - ReactJS FastAPI Sqlalchemy Tailwind CSS](https://github.com/sumitgirwal/Todo-App)
-- [SuperDoom - ReactJS Html CSS](https://github.com/sumitgirwal/SuperDoom)
-
-#### Flask
-
-- [Todo App - Flask Html Css](https://github.com/sumitgirwal/Todo-App-Python-Flask)
-
-#### Frontend
-
-- [TwitterSidebar](https://github.com/sumitgirwal/TwitterSidebar)
-- [Navbar Collection](https://github.com/sumitgirwal/Navbar-Collection)
-- [Form Collection](https://github.com/sumitgirwal/Form-Collection)
-- [Youtube Clone](https://github.com/sumitgirwal/YoutubePortfolio)
-- [Facebook Clone](https://github.com/sumitgirwal/FacebookLoginSignupClone)
-
-#### PHP
-
-- [StudentProKit - PHP Html CSS](https://github.com/sumitgirwal/Student-Pro-Kit)
-
-#### C++
-
-- [Info Collector App - C++](https://github.com/sumitgirwal/Info-Collector-CPP-Project)
-
-## 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=sumitgirwal&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sumitgirwal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitgirwal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 ---
+
+## What I work on
+
+- **Backend & APIs:** FastAPI, Django and Flask services on PostgreSQL, using SQLAlchemy/Alembic, OAuth2/JWT and Keycloak.
+- **Distributed & async systems:** Celery, RabbitMQ and Redis for job scheduling, retries with back-off, dead-letter queues and event-driven audit trails.
+- **Data pipelines:** Airflow and Databricks pipelines, ETL workflows, and Scrapy-based distributed scraping.
+- **Platform & DevOps:** Docker, Kubernetes (EKS, AKS, RKE), Helm, ArgoCD, and CI/CD with GitHub Actions, GitLab CI and Jenkins.
+- **AI / LLM engineering:** LangChain and LangGraph agents, streaming LLM responses, and real-time voice pipelines over WebSockets.
+
+## Selected professional work
+
+The code for these is private client or company work. Full write-ups are on my portfolio.
+
+- **Workflow audit SDK & restart:** A Python SDK that publishes workflow lifecycle events over RabbitMQ, plus a buffered bulk-upsert consumer with a dead-letter queue and graceful shutdown. I also added full restart and resume-from-failed-step for Celery workflows and Airflow 3.x DAGs.
+- **API performance:** Cut a bulk catalog endpoint from about 14 minutes to about 1 second for 49 feeds by replacing an N+1 query loop with batched queries, composite indexes and column projection (SQLAlchemy, PostgreSQL).
+- **Distributed job scheduler:** FastAPI and Celery Beat on PostgreSQL and Redis, with timezone-aware cron recurrence, retry back-off, per-server concurrency throttling and fallback paths for broker outages. Load-tested with 100+ concurrent jobs across five timezones.
+- **Distributed scraping infrastructure:** Scrapy, Scrapyd and Scrapy-Redis crawlers on Kubernetes (RKE), delivered through ArgoCD. An ELK stack handles logging and monitoring for up to 3M data points.
+- **Real-time voice AI pipeline:** Streams audio from Twilio Media Streams through Silero VAD and Deepgram live transcription over WebSockets. A provider-agnostic LLM layer sits behind it (OpenAI, Anthropic, Gemini, Groq).
+
+## Open-source projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [ProCoder](https://github.com/sumitgirwal/ProCoder-Officials) | Learning platform that puts courses, quizzes and a community blog in one place. Has role-based accounts and an admin panel with CSV/Excel export. | Django · Bootstrap · jQuery · pandas |
+| [CodeBeLog](https://github.com/sumitgirwal/CodeBeLog) | Multi-author blogging app with email-based sign-in, rich-text posts with categories, public/private visibility, likes and view counts. | Django · TinyMCE · Bootstrap |
+| [NotifyMe](https://github.com/sumitgirwal/notifyme-j2ee) | Digital notice board that replaces paper notices in schools and colleges. Has role-based dashboards, notice management and file uploads/downloads. | Java (J2EE) · AJAX · Bootstrap 4 |
+| [OrderTracker](https://github.com/sumitgirwal/OrderTracker) | Pushes live order-status updates to the browser over WebSockets. A model signal publishes to a Channels group, and htmx swaps in HTML rendered on the server. | Django Channels · WebSockets · htmx |
+ 
+## Tech stack
+
+- **Languages:** Python · SQL · JavaScript · C/C++
+- **Backend:** FastAPI · Django / DRF · Flask · Pydantic · SQLAlchemy / Alembic · WebSockets
+- **Messaging & orchestration:** Celery · RabbitMQ · Redis · Apache Airflow · Databricks
+- **Databases:** PostgreSQL · MySQL · MongoDB · Redis
+- **DevOps:** Docker · Kubernetes (EKS, AKS, RKE) · Helm · ArgoCD · GitHub Actions · GitLab CI/CD · Jenkins
+- **Cloud:** AWS (EC2, S3, SES, Lambda, CloudWatch, Secrets Manager, EKS) · Azure (AKS, Key Vault, Blob Storage)
+- **Observability:** Elasticsearch · Logstash · Kibana
+- **AI / LLM:** LangChain · LangGraph · OpenAI API · Groq · RAG
+- **Security:** Keycloak (JWT/JWKS) · OAuth2
+
+## Writing
+
+I write about job queues, retries and back-off, Redis, and FastAPI + Celery architecture on [Medium](https://medium.com/@devsumitg) and my portfolio.
